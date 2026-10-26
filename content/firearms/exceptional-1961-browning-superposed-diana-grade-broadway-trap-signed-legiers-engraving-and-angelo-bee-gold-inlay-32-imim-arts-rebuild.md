@@ -15,7 +15,7 @@ gallery:
   - /media/4.png
 ---
 **Exceptional 1961 Browning Superposed Diana Grade Broadway Trap – Signed Legiers Engraving & Angelo Bee Gold Inlay – 32" IM/IM – Art’s Rebuild**  
-  
+
 Offered is an exceptionally distinctive **1961 Belgian Browning Superposed Diana Grade Broadway Trap**, serial number **B 92517**, featuring documented work by two accomplished Browning artists and a comprehensive mechanical rebuild by one of the most respected Superposed specialists in the country.  
 The gun’s elaborate hand engraving was executed by **Legiers**, while the striking gold game-bird inlays were completed by renowned Browning engraver **Angelo Bee**. The shotgun is **signed by both artists** and is accompanied by **Angelo Bee’s paperwork**, providing valuable provenance for the gold-inlay work.  
 The Diana Grade receiver features extensive scroll, foliage and game-scene engraving, with detailed coverage continuing across the fences, top tang, top lever, trigger guard and adjoining metal surfaces. Angelo Bee’s gold-inlaid birds provide a vivid contrast against the finely shaded scenes and silver-gray receiver finish. The combination of two signed artists, documented Angelo Bee work and the classic Diana Grade presentation makes this a particularly unusual and desirable Superposed.  
