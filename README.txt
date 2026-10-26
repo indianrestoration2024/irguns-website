@@ -1,0 +1,1 @@
+IRGuns.com Version 10 – Seller inventory snapshot Oct 26 2026. Upload ZIP to Cloudflare Pages as a new deployment. Listings use links to GunsInternational for full photos/details; prices and availability require confirmation. No checkout.
