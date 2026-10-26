@@ -1,8 +1,1 @@
-IRGuns CMS-enabled site
-
-1. Upload root files and folders to GitHub repository. Do NOT upload ZIP as one file.
-2. Cloudflare Pages (irguns-website project) Settings > Builds & deployments: Framework preset None; Build command: npm run build; Build output directory: dist; Root directory blank.
-3. Save changes, retry deployment / push a commit.
-4. Pages CMS entries in content/firearms/*.md automatically trigger rebuild when saved. Photo paths managed in /media.
-5. Keep irguns.com attached to the old project until testing is complete.
-6. Site does not include checkout/payment. Verify hosting permissions before publicly listing firearms.
+IRGuns Version 13: upload changed files build.mjs, styles.css and NEW gallery.js to the root of the same GitHub repository. Commit to main, Cloudflare builds automatically with npm run build and dist. Existing Pages CMS configuration and inventory are unchanged. Test on irguns-website.pages.dev before switching public domain. Verify hosting eligibility for firearms catalog.
