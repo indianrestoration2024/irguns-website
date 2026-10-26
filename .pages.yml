@@ -1,0 +1,59 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: firearms
+    label: Firearms Inventory
+    type: collection
+    path: content/firearms
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, category, price, status]
+    fields:
+      - name: title
+        label: Firearm Name
+        type: string
+        required: true
+      - name: manufacturer
+        label: Manufacturer
+        type: string
+      - name: model
+        label: Model
+        type: string
+      - name: category
+        label: Category
+        type: select
+        options:
+          values: [Shotgun, Rifle, Handgun, Collectible]
+      - name: caliber
+        label: Caliber or Gauge
+        type: string
+      - name: barrel_length
+        label: Barrel Length
+        type: string
+      - name: condition
+        label: Condition
+        type: text
+      - name: price
+        label: Asking Price
+        type: number
+        required: true
+      - name: status
+        label: Availability
+        type: select
+        options:
+          values: [Available, Sale Pending, Sold]
+      - name: featured_image
+        label: Main Photograph
+        type: image
+      - name: gallery
+        label: Additional Photographs
+        type: image
+        options:
+          multiple: true
+      - name: body
+        label: Full Description
+        type: rich-text
