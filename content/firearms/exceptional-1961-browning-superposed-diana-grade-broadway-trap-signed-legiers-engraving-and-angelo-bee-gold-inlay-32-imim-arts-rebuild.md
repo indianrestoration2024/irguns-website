@@ -13,6 +13,10 @@ featured_image: /media/1.png
 gallery:
   - /media/1-1.png
   - /media/4.png
+  - /media/3.png
+  - /media/4-2.png
+  - /media/5.png
+  - /media/7-1.png
 ---
 **Exceptional 1961 Browning Superposed Diana Grade Broadway Trap – Signed Legiers Engraving & Angelo Bee Gold Inlay – 32" IM/IM – Art’s Rebuild**  
 
