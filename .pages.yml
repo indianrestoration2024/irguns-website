@@ -54,7 +54,7 @@ content:
         type: image
         options:
             multiple:
-            max: 30
+              max: 30
             unique: true
       - name: body
         label: Full Description
