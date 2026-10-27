@@ -49,7 +49,7 @@ content:
       - name: featured_image
         label: Main Photograph
         type: image
-     -  name: gallery
+      - name: gallery
         label: Additional Photographs
         type: image
         options:
