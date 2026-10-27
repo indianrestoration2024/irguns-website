@@ -10,7 +10,22 @@ condition: Exceptional
 price: 14999
 status: Available
 featured_image: /media/1.png
-gallery: /media/2.png
+gallery:
+  - /media/1.png
+  - /media/10.png
+  - /media/11.png
+  - /media/12.png
+  - /media/13-1.png
+  - /media/13.png
+  - /media/14.png
+  - /media/2.png
+  - /media/3-1.png
+  - /media/3.png
+  - /media/4.png
+  - /media/5.png
+  - /media/6-1.png
+  - /media/6.png
+  - /media/7.png
 ---
 **Exceptional 1961 Browning Superposed Diana Grade Broadway Trap – Signed Legiers Engraving & Angelo Bee Gold Inlay – 32" IM/IM – Art’s Rebuild**  
 
