@@ -49,13 +49,13 @@ content:
       - name: featured_image
         label: Main Photograph
         type: image
-     - name: gallery
-       label: Additional Photographs
-       type: image
-       options:
+     -  name: gallery
+        label: Additional Photographs
+        type: image
+        options:
             multiple:
             max: 30
-    unique: true
+            unique: true
       - name: body
         label: Full Description
         type: rich-text
